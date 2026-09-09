@@ -1,0 +1,501 @@
+farmer_id,signup_date,region,farm_size_hectares,primary_crop
+1,2026-04-13,Rift Valley,2.0,Coffee
+2,2026-06-29,Rift Valley,0.84,Potatoes
+3,2026-04-03,Rift Valley,3.89,Coffee
+4,2026-01-15,Rift Valley,1.73,Beans
+5,2026-04-17,Rift Valley,4.54,Coffee
+6,2026-03-13,Eastern,2.87,Coffee
+7,2026-01-21,Rift Valley,4.1,Coffee
+8,2026-04-13,Eastern,4.91,Potatoes
+9,2026-05-02,Rift Valley,4.28,Maize
+10,2026-03-16,Eastern,4.4,Maize
+11,2026-03-29,Rift Valley,2.34,Coffee
+12,2026-04-27,Rift Valley,2.98,Maize
+13,2026-04-10,Eastern,1.64,Maize
+14,2026-04-14,Eastern,1.38,Coffee
+15,2026-06-01,Rift Valley,2.77,Coffee
+16,2026-05-11,Nyanza,3.18,Beans
+17,2026-05-30,Rift Valley,2.03,Maize
+18,2026-02-22,Eastern,3.06,Potatoes
+19,2026-01-02,Nyanza,4.49,Coffee
+20,2026-03-29,Eastern,3.01,Beans
+21,2026-06-07,Eastern,3.74,Potatoes
+22,2026-02-07,Eastern,4.12,Maize
+23,2026-05-10,Eastern,4.95,Beans
+24,2026-01-21,Central,3.21,Coffee
+25,2026-06-10,Rift Valley,4.13,Potatoes
+26,2026-02-27,Rift Valley,4.83,Coffee
+27,2026-01-22,Eastern,4.75,Maize
+28,2026-03-30,Nyanza,1.13,Potatoes
+29,2026-02-18,Eastern,2.33,Maize
+30,2026-02-28,Rift Valley,1.96,Maize
+31,2026-06-19,Eastern,0.89,Beans
+32,2026-01-15,Central,3.35,Coffee
+33,2026-06-24,Rift Valley,3.81,Potatoes
+34,2026-02-20,Rift Valley,4.32,Maize
+35,2026-04-18,Eastern,1.05,Maize
+36,2026-02-24,Eastern,4.44,Potatoes
+37,2026-03-05,Rift Valley,3.39,Maize
+38,2026-05-11,Rift Valley,3.67,Beans
+39,2026-02-20,Rift Valley,4.6,Beans
+40,2026-05-15,Rift Valley,3.31,Beans
+41,2026-01-21,Nyanza,2.01,Beans
+42,2026-03-14,Central,4.21,Maize
+43,2026-06-16,Rift Valley,2.13,Potatoes
+44,2026-01-18,Nyanza,0.65,Potatoes
+45,2026-05-12,Eastern,4.24,Potatoes
+46,2026-03-30,Eastern,2.05,Potatoes
+47,2026-03-01,Eastern,3.98,Coffee
+48,2026-01-14,Rift Valley,2.13,Potatoes
+49,2026-01-09,Rift Valley,4.37,Coffee
+50,2026-03-31,Eastern,1.49,Coffee
+51,2026-02-22,Eastern,4.89,Beans
+52,2026-05-10,Rift Valley,4.01,Coffee
+53,2026-03-25,Nyanza,1.01,Maize
+54,2026-04-02,Central,3.05,Coffee
+55,2026-04-21,Rift Valley,4.93,Beans
+56,2026-06-21,Nyanza,2.62,Coffee
+57,2026-01-08,Nyanza,1.32,Maize
+58,2026-06-24,Nyanza,2.68,Maize
+59,2026-02-04,Rift Valley,2.81,Maize
+60,2026-03-22,Central,3.84,Beans
+61,2026-06-13,Eastern,3.64,Beans
+62,2026-02-19,Central,2.31,Potatoes
+63,2026-04-14,Nyanza,1.48,Beans
+64,2026-05-12,Eastern,3.4,Maize
+65,2026-01-02,Central,2.4,Maize
+66,2026-05-14,Nyanza,1.1,Beans
+67,2026-02-23,Central,4.55,Coffee
+68,2026-04-16,Eastern,3.61,Beans
+69,2026-01-04,Rift Valley,3.57,Beans
+70,2026-02-23,Rift Valley,4.2,Maize
+71,2026-05-26,Nyanza,2.88,Potatoes
+72,2026-02-13,Rift Valley,4.17,Maize
+73,2026-06-11,Eastern,2.74,Potatoes
+74,2026-01-14,Rift Valley,0.8,Maize
+75,2026-04-05,Eastern,2.32,Beans
+76,2026-02-17,Nyanza,2.74,Maize
+77,2026-01-15,Nyanza,3.74,Maize
+78,2026-02-09,Rift Valley,0.98,Maize
+79,2026-03-23,Nyanza,1.13,Beans
+80,2026-04-21,Eastern,1.69,Beans
+81,2026-02-22,Rift Valley,1.7,Beans
+82,2026-01-24,Central,3.79,Beans
+83,2026-06-03,Eastern,1.63,Potatoes
+84,2026-05-04,Rift Valley,3.35,Potatoes
+85,2026-02-10,Central,2.72,Coffee
+86,2026-06-06,Rift Valley,3.08,Beans
+87,2026-01-15,Rift Valley,4.27,Potatoes
+88,2026-02-14,Eastern,2.32,Maize
+89,2026-03-06,Rift Valley,3.97,Beans
+90,2026-03-30,Eastern,2.4,Coffee
+91,2026-03-12,Eastern,2.09,Coffee
+92,2026-01-09,Central,4.81,Coffee
+93,2026-03-29,Central,1.33,Maize
+94,2026-05-09,Central,0.91,Potatoes
+95,2026-05-16,Central,3.97,Maize
+96,2026-03-04,Eastern,0.81,Beans
+97,2026-05-19,Rift Valley,4.27,Coffee
+98,2026-03-22,Eastern,2.47,Maize
+99,2026-05-16,Eastern,4.62,Maize
+100,2026-06-12,Rift Valley,3.75,Potatoes
+101,2026-06-12,Eastern,3.25,Potatoes
+102,2026-02-02,Eastern,4.77,Coffee
+103,2026-05-03,Central,2.28,Maize
+104,2026-01-05,Nyanza,4.79,Maize
+105,2026-02-10,Eastern,1.11,Potatoes
+106,2026-01-28,Rift Valley,2.68,Maize
+107,2026-05-15,Rift Valley,1.71,Maize
+108,2026-03-13,Nyanza,2.93,Maize
+109,2026-01-12,Nyanza,1.23,Potatoes
+110,2026-06-11,Rift Valley,4.29,Coffee
+111,2026-02-02,Eastern,4.31,Beans
+112,2026-02-17,Rift Valley,4.8,Coffee
+113,2026-05-31,Rift Valley,1.2,Beans
+114,2026-03-03,Rift Valley,3.3,Maize
+115,2026-02-06,Rift Valley,2.63,Coffee
+116,2026-04-09,Nyanza,2.05,Beans
+117,2026-06-21,Eastern,2.08,Potatoes
+118,2026-04-14,Rift Valley,2.36,Potatoes
+119,2026-02-04,Central,3.67,Coffee
+120,2026-04-11,Nyanza,3.19,Coffee
+121,2026-06-24,Nyanza,2.57,Maize
+122,2026-05-11,Rift Valley,0.84,Coffee
+123,2026-01-01,Rift Valley,0.85,Maize
+124,2026-01-05,Rift Valley,0.51,Maize
+125,2026-05-22,Rift Valley,4.85,Potatoes
+126,2026-04-13,Rift Valley,0.52,Potatoes
+127,2026-01-27,Eastern,0.96,Beans
+128,2026-05-17,Rift Valley,1.92,Potatoes
+129,2026-01-15,Rift Valley,4.13,Potatoes
+130,2026-03-31,Rift Valley,4.83,Coffee
+131,2026-02-11,Rift Valley,4.06,Potatoes
+132,2026-05-04,Rift Valley,3.61,Beans
+133,2026-06-28,Eastern,2.85,Coffee
+134,2026-03-04,Rift Valley,0.89,Beans
+135,2026-04-06,Rift Valley,4.81,Potatoes
+136,2026-02-21,Eastern,3.91,Beans
+137,2026-04-06,Eastern,3.38,Coffee
+138,2026-05-12,Rift Valley,3.92,Maize
+139,2026-05-31,Rift Valley,3.76,Beans
+140,2026-05-23,Rift Valley,3.37,Beans
+141,2026-06-20,Nyanza,4.91,Coffee
+142,2026-01-29,Eastern,4.57,Coffee
+143,2026-02-05,Eastern,3.41,Beans
+144,2026-01-13,Nyanza,3.62,Potatoes
+145,2026-06-09,Rift Valley,0.73,Beans
+146,2026-03-12,Nyanza,3.51,Coffee
+147,2026-03-27,Eastern,0.7,Maize
+148,2026-01-28,Rift Valley,3.15,Maize
+149,2026-03-07,Eastern,5.0,Potatoes
+150,2026-06-19,Central,3.0,Beans
+151,2026-02-14,Eastern,2.63,Maize
+152,2026-03-03,Nyanza,1.91,Beans
+153,2026-05-14,Rift Valley,1.04,Coffee
+154,2026-01-28,Central,3.79,Maize
+155,2026-01-28,Rift Valley,1.37,Potatoes
+156,2026-04-18,Central,1.02,Coffee
+157,2026-02-13,Eastern,2.4,Potatoes
+158,2026-03-25,Rift Valley,4.08,Coffee
+159,2026-01-30,Rift Valley,3.85,Maize
+160,2026-03-16,Rift Valley,0.75,Potatoes
+161,2026-05-08,Rift Valley,2.55,Potatoes
+162,2026-04-02,Rift Valley,2.85,Coffee
+163,2026-05-09,Eastern,3.4,Potatoes
+164,2026-05-01,Eastern,3.43,Coffee
+165,2026-01-27,Central,2.14,Coffee
+166,2026-05-01,Nyanza,3.02,Coffee
+167,2026-04-26,Eastern,2.66,Coffee
+168,2026-01-03,Central,4.48,Maize
+169,2026-04-13,Central,2.89,Coffee
+170,2026-06-04,Rift Valley,2.48,Beans
+171,2026-05-17,Rift Valley,2.32,Potatoes
+172,2026-03-03,Rift Valley,3.08,Beans
+173,2026-06-14,Rift Valley,4.12,Maize
+174,2026-02-20,Rift Valley,2.92,Beans
+175,2026-06-21,Rift Valley,3.48,Potatoes
+176,2026-06-01,Nyanza,3.82,Beans
+177,2026-02-28,Central,2.84,Maize
+178,2026-04-28,Rift Valley,2.42,Coffee
+179,2026-06-09,Rift Valley,4.44,Beans
+180,2026-04-06,Rift Valley,2.38,Maize
+181,2026-06-29,Eastern,2.58,Maize
+182,2026-04-23,Eastern,4.96,Potatoes
+183,2026-03-03,Central,0.5,Potatoes
+184,2026-02-21,Rift Valley,1.33,Beans
+185,2026-01-12,Central,2.23,Coffee
+186,2026-02-08,Nyanza,4.7,Maize
+187,2026-05-10,Rift Valley,0.82,Beans
+188,2026-05-11,Central,0.54,Maize
+189,2026-04-23,Eastern,0.74,Maize
+190,2026-04-11,Eastern,0.9,Coffee
+191,2026-04-23,Eastern,0.67,Coffee
+192,2026-03-22,Central,2.66,Beans
+193,2026-04-23,Eastern,3.11,Coffee
+194,2026-01-02,Central,1.72,Coffee
+195,2026-05-10,Nyanza,2.29,Beans
+196,2026-02-23,Eastern,0.91,Coffee
+197,2026-03-28,Nyanza,2.01,Potatoes
+198,2026-05-09,Eastern,2.85,Maize
+199,2026-05-27,Eastern,3.8,Maize
+200,2026-05-06,Eastern,0.52,Maize
+201,2026-05-10,Rift Valley,2.6,Maize
+202,2026-02-22,Central,1.84,Beans
+203,2026-06-21,Eastern,4.34,Maize
+204,2026-06-09,Eastern,3.72,Maize
+205,2026-06-09,Nyanza,3.15,Maize
+206,2026-03-09,Rift Valley,1.75,Maize
+207,2026-05-03,Eastern,4.6,Potatoes
+208,2026-05-25,Eastern,0.7,Maize
+209,2026-02-07,Central,0.99,Potatoes
+210,2026-01-24,Eastern,2.26,Beans
+211,2026-03-10,Central,1.06,Coffee
+212,2026-04-26,Central,4.8,Maize
+213,2026-04-08,Rift Valley,4.09,Coffee
+214,2026-05-19,Rift Valley,1.67,Coffee
+215,2026-05-24,Eastern,3.15,Beans
+216,2026-04-07,Rift Valley,4.92,Coffee
+217,2026-05-04,Rift Valley,4.48,Potatoes
+218,2026-03-11,Eastern,3.2,Coffee
+219,2026-04-03,Rift Valley,4.57,Coffee
+220,2026-01-03,Eastern,4.95,Coffee
+221,2026-05-28,Eastern,3.85,Maize
+222,2026-06-13,Eastern,0.79,Maize
+223,2026-05-27,Eastern,2.31,Potatoes
+224,2026-03-31,Eastern,4.27,Potatoes
+225,2026-05-27,Rift Valley,1.54,Maize
+226,2026-05-28,Eastern,4.24,Potatoes
+227,2026-04-06,Eastern,1.04,Maize
+228,2026-02-21,Nyanza,0.71,Beans
+229,2026-06-10,Eastern,2.23,Coffee
+230,2026-06-17,Nyanza,0.67,Coffee
+231,2026-05-08,Eastern,4.81,Potatoes
+232,2026-02-08,Rift Valley,4.22,Maize
+233,2026-03-23,Central,4.1,Maize
+234,2026-04-14,Rift Valley,3.33,Potatoes
+235,2026-05-09,Rift Valley,1.47,Maize
+236,2026-01-11,Rift Valley,2.83,Beans
+237,2026-06-27,Eastern,3.19,Coffee
+238,2026-05-31,Eastern,2.86,Potatoes
+239,2026-06-08,Rift Valley,1.67,Potatoes
+240,2026-02-11,Nyanza,2.82,Maize
+241,2026-04-09,Rift Valley,2.71,Potatoes
+242,2026-01-07,Rift Valley,4.98,Beans
+243,2026-05-24,Rift Valley,4.54,Maize
+244,2026-03-31,Rift Valley,2.59,Maize
+245,2026-04-22,Eastern,3.3,Maize
+246,2026-03-01,Eastern,3.87,Maize
+247,2026-04-23,Eastern,0.66,Beans
+248,2026-01-02,Rift Valley,4.53,Maize
+249,2026-05-09,Rift Valley,4.37,Potatoes
+250,2026-02-17,Rift Valley,2.56,Beans
+251,2026-05-20,Nyanza,2.26,Coffee
+252,2026-02-06,Rift Valley,1.73,Coffee
+253,2026-06-09,Eastern,2.65,Potatoes
+254,2026-01-09,Nyanza,0.7,Potatoes
+255,2026-04-09,Eastern,4.33,Beans
+256,2026-05-27,Nyanza,0.66,Coffee
+257,2026-02-17,Rift Valley,1.98,Coffee
+258,2026-05-11,Central,4.69,Coffee
+259,2026-05-28,Eastern,3.81,Coffee
+260,2026-06-01,Central,1.77,Coffee
+261,2026-02-23,Rift Valley,1.64,Maize
+262,2026-04-30,Rift Valley,0.52,Potatoes
+263,2026-06-10,Rift Valley,3.63,Maize
+264,2026-06-01,Eastern,0.72,Coffee
+265,2026-04-26,Central,2.9,Beans
+266,2026-03-16,Central,4.83,Beans
+267,2026-04-23,Rift Valley,0.99,Coffee
+268,2026-06-13,Nyanza,4.53,Coffee
+269,2026-06-15,Rift Valley,4.96,Beans
+270,2026-04-14,Rift Valley,0.78,Maize
+271,2026-03-25,Rift Valley,4.47,Maize
+272,2026-04-22,Central,2.82,Coffee
+273,2026-04-09,Rift Valley,4.58,Maize
+274,2026-06-02,Eastern,3.07,Beans
+275,2026-04-03,Central,3.48,Maize
+276,2026-05-26,Rift Valley,2.95,Coffee
+277,2026-05-08,Eastern,4.39,Beans
+278,2026-04-20,Rift Valley,3.8,Maize
+279,2026-03-23,Rift Valley,2.85,Potatoes
+280,2026-02-23,Eastern,4.41,Beans
+281,2026-06-12,Rift Valley,1.6,Beans
+282,2026-06-18,Eastern,1.21,Potatoes
+283,2026-06-10,Eastern,1.22,Potatoes
+284,2026-03-09,Eastern,2.0,Beans
+285,2026-02-02,Central,1.57,Potatoes
+286,2026-05-22,Eastern,4.69,Coffee
+287,2026-01-21,Eastern,0.98,Coffee
+288,2026-02-17,Eastern,3.65,Coffee
+289,2026-05-28,Rift Valley,1.35,Beans
+290,2026-05-08,Rift Valley,4.47,Potatoes
+291,2026-05-16,Nyanza,4.83,Potatoes
+292,2026-05-15,Eastern,2.59,Maize
+293,2026-05-25,Rift Valley,4.46,Maize
+294,2026-05-08,Eastern,0.52,Potatoes
+295,2026-02-02,Rift Valley,4.19,Potatoes
+296,2026-06-25,Nyanza,1.53,Potatoes
+297,2026-04-25,Rift Valley,4.59,Beans
+298,2026-04-29,Rift Valley,0.51,Potatoes
+299,2026-01-22,Rift Valley,3.0,Maize
+300,2026-06-07,Eastern,3.9,Beans
+301,2026-02-07,Nyanza,1.66,Potatoes
+302,2026-04-19,Rift Valley,1.37,Maize
+303,2026-02-20,Central,0.88,Beans
+304,2026-01-08,Rift Valley,1.97,Potatoes
+305,2026-01-27,Central,3.02,Potatoes
+306,2026-01-27,Rift Valley,1.02,Potatoes
+307,2026-01-21,Rift Valley,2.2,Beans
+308,2026-01-30,Eastern,0.54,Maize
+309,2026-04-07,Nyanza,4.18,Maize
+310,2026-01-28,Nyanza,1.08,Coffee
+311,2026-04-21,Eastern,1.78,Potatoes
+312,2026-03-02,Nyanza,0.58,Coffee
+313,2026-02-17,Rift Valley,2.45,Coffee
+314,2026-05-27,Nyanza,4.28,Maize
+315,2026-01-04,Eastern,2.26,Beans
+316,2026-02-04,Central,1.31,Beans
+317,2026-02-18,Central,3.89,Maize
+318,2026-01-17,Central,4.05,Beans
+319,2026-06-21,Eastern,1.28,Coffee
+320,2026-06-07,Eastern,3.97,Potatoes
+321,2026-02-15,Central,4.76,Maize
+322,2026-04-27,Rift Valley,1.25,Potatoes
+323,2026-01-06,Nyanza,3.97,Beans
+324,2026-04-09,Central,3.69,Potatoes
+325,2026-05-04,Rift Valley,2.63,Beans
+326,2026-02-06,Central,0.76,Beans
+327,2026-01-24,Eastern,0.84,Coffee
+328,2026-04-03,Central,4.34,Beans
+329,2026-02-15,Central,4.96,Coffee
+330,2026-04-05,Rift Valley,3.54,Coffee
+331,2026-04-09,Eastern,2.51,Coffee
+332,2026-04-26,Nyanza,3.41,Maize
+333,2026-06-09,Rift Valley,3.17,Maize
+334,2026-06-10,Eastern,2.23,Beans
+335,2026-03-08,Rift Valley,0.8,Coffee
+336,2026-05-08,Eastern,4.2,Maize
+337,2026-01-18,Eastern,2.17,Coffee
+338,2026-01-25,Eastern,4.18,Potatoes
+339,2026-02-23,Rift Valley,1.64,Potatoes
+340,2026-02-27,Eastern,0.5,Potatoes
+341,2026-03-08,Rift Valley,1.22,Beans
+342,2026-04-14,Rift Valley,2.61,Coffee
+343,2026-06-23,Rift Valley,4.75,Potatoes
+344,2026-01-24,Rift Valley,0.96,Maize
+345,2026-04-24,Eastern,4.34,Potatoes
+346,2026-02-01,Eastern,2.87,Potatoes
+347,2026-06-24,Central,4.22,Potatoes
+348,2026-03-27,Rift Valley,1.84,Beans
+349,2026-05-31,Nyanza,4.28,Maize
+350,2026-05-07,Central,3.98,Coffee
+351,2026-06-04,Eastern,1.54,Maize
+352,2026-05-10,Nyanza,1.09,Coffee
+353,2026-01-17,Nyanza,4.41,Beans
+354,2026-04-14,Rift Valley,4.83,Beans
+355,2026-06-10,Rift Valley,0.64,Beans
+356,2026-05-17,Nyanza,3.79,Beans
+357,2026-02-12,Central,4.59,Coffee
+358,2026-06-25,Rift Valley,4.36,Potatoes
+359,2026-02-08,Central,4.84,Coffee
+360,2026-06-19,Central,3.92,Maize
+361,2026-01-26,Central,2.49,Beans
+362,2026-04-09,Central,1.9,Beans
+363,2026-02-19,Central,1.94,Maize
+364,2026-06-02,Rift Valley,3.76,Coffee
+365,2026-06-01,Rift Valley,3.86,Potatoes
+366,2026-01-13,Eastern,1.4,Potatoes
+367,2026-03-01,Nyanza,4.41,Maize
+368,2026-05-15,Rift Valley,3.72,Potatoes
+369,2026-02-26,Eastern,3.03,Coffee
+370,2026-02-05,Eastern,2.62,Coffee
+371,2026-06-22,Eastern,2.94,Maize
+372,2026-01-20,Central,1.22,Coffee
+373,2026-03-06,Nyanza,1.42,Beans
+374,2026-01-08,Eastern,0.91,Maize
+375,2026-05-24,Eastern,1.19,Coffee
+376,2026-05-22,Eastern,2.54,Maize
+377,2026-04-25,Eastern,2.89,Potatoes
+378,2026-05-23,Rift Valley,0.58,Coffee
+379,2026-04-02,Rift Valley,4.09,Beans
+380,2026-04-08,Eastern,1.82,Coffee
+381,2026-03-07,Rift Valley,4.6,Maize
+382,2026-02-01,Rift Valley,4.85,Maize
+383,2026-03-27,Eastern,1.33,Coffee
+384,2026-02-20,Eastern,2.58,Beans
+385,2026-06-02,Rift Valley,0.51,Beans
+386,2026-03-04,Central,3.19,Beans
+387,2026-05-05,Eastern,3.23,Maize
+388,2026-05-30,Rift Valley,1.61,Coffee
+389,2026-02-27,Nyanza,3.01,Potatoes
+390,2026-02-27,Eastern,1.51,Maize
+391,2026-03-27,Central,1.22,Beans
+392,2026-02-18,Eastern,3.43,Coffee
+393,2026-06-29,Nyanza,1.97,Beans
+394,2026-06-19,Central,3.16,Potatoes
+395,2026-03-11,Central,2.45,Beans
+396,2026-01-15,Central,4.93,Beans
+397,2026-02-23,Rift Valley,1.17,Potatoes
+398,2026-04-11,Rift Valley,2.59,Coffee
+399,2026-01-08,Central,3.56,Maize
+400,2026-02-22,Eastern,2.28,Coffee
+401,2026-03-01,Central,4.89,Potatoes
+402,2026-04-18,Rift Valley,3.75,Beans
+403,2026-01-05,Eastern,3.46,Coffee
+404,2026-04-13,Rift Valley,3.91,Maize
+405,2026-01-06,Eastern,4.79,Potatoes
+406,2026-04-19,Eastern,4.59,Coffee
+407,2026-04-26,Eastern,3.76,Maize
+408,2026-04-04,Eastern,3.87,Potatoes
+409,2026-02-16,Eastern,1.16,Maize
+410,2026-04-09,Eastern,0.96,Potatoes
+411,2026-02-24,Central,3.07,Beans
+412,2026-06-17,Rift Valley,0.58,Coffee
+413,2026-02-21,Eastern,2.67,Maize
+414,2026-05-24,Eastern,1.45,Potatoes
+415,2026-01-13,Central,2.06,Maize
+416,2026-04-24,Eastern,3.99,Maize
+417,2026-05-04,Central,4.74,Coffee
+418,2026-04-16,Nyanza,0.83,Beans
+419,2026-06-07,Rift Valley,2.9,Maize
+420,2026-05-27,Rift Valley,4.47,Potatoes
+421,2026-05-25,Eastern,0.87,Potatoes
+422,2026-04-30,Rift Valley,4.21,Beans
+423,2026-03-04,Eastern,2.11,Potatoes
+424,2026-01-19,Nyanza,1.95,Beans
+425,2026-04-02,Rift Valley,4.9,Potatoes
+426,2026-02-27,Rift Valley,1.4,Coffee
+427,2026-03-31,Rift Valley,3.62,Maize
+428,2026-04-27,Central,4.2,Coffee
+429,2026-03-03,Eastern,0.69,Maize
+430,2026-01-23,Rift Valley,3.52,Maize
+431,2026-05-07,Nyanza,4.78,Maize
+432,2026-05-17,Central,1.06,Coffee
+433,2026-05-20,Rift Valley,4.53,Maize
+434,2026-05-09,Eastern,3.18,Coffee
+435,2026-02-27,Central,3.27,Beans
+436,2026-05-02,Rift Valley,3.26,Potatoes
+437,2026-01-01,Rift Valley,1.84,Potatoes
+438,2026-02-03,Rift Valley,4.71,Maize
+439,2026-04-06,Rift Valley,4.76,Coffee
+440,2026-05-06,Central,3.31,Potatoes
+441,2026-04-28,Nyanza,4.03,Coffee
+442,2026-02-17,Rift Valley,3.26,Coffee
+443,2026-03-30,Rift Valley,2.68,Maize
+444,2026-04-27,Rift Valley,3.47,Potatoes
+445,2026-05-09,Rift Valley,2.99,Maize
+446,2026-01-16,Central,3.19,Maize
+447,2026-03-10,Rift Valley,4.03,Potatoes
+448,2026-01-22,Rift Valley,2.66,Potatoes
+449,2026-04-03,Rift Valley,0.68,Beans
+450,2026-03-17,Eastern,1.24,Beans
+451,2026-06-03,Rift Valley,2.47,Coffee
+452,2026-05-24,Central,3.76,Potatoes
+453,2026-06-28,Rift Valley,3.17,Beans
+454,2026-03-27,Central,3.43,Coffee
+455,2026-01-29,Eastern,2.66,Coffee
+456,2026-03-10,Rift Valley,3.27,Coffee
+457,2026-02-16,Eastern,1.98,Beans
+458,2026-04-04,Nyanza,2.62,Potatoes
+459,2026-05-24,Nyanza,3.85,Maize
+460,2026-06-25,Eastern,4.42,Coffee
+461,2026-03-26,Eastern,2.45,Beans
+462,2026-02-08,Nyanza,0.7,Beans
+463,2026-04-10,Eastern,1.23,Maize
+464,2026-02-02,Rift Valley,0.59,Maize
+465,2026-04-11,Nyanza,3.44,Beans
+466,2026-01-23,Rift Valley,2.0,Potatoes
+467,2026-01-10,Eastern,2.94,Maize
+468,2026-03-10,Rift Valley,2.72,Beans
+469,2026-04-10,Rift Valley,0.87,Maize
+470,2026-02-03,Rift Valley,2.31,Potatoes
+471,2026-06-29,Central,1.49,Coffee
+472,2026-05-18,Rift Valley,2.38,Maize
+473,2026-05-27,Rift Valley,1.42,Potatoes
+474,2026-04-06,Rift Valley,4.28,Beans
+475,2026-01-01,Eastern,1.28,Maize
+476,2026-03-10,Nyanza,4.82,Maize
+477,2026-01-04,Eastern,2.37,Beans
+478,2026-01-16,Eastern,4.31,Coffee
+479,2026-01-24,Nyanza,3.33,Beans
+480,2026-03-21,Eastern,3.81,Maize
+481,2026-01-02,Rift Valley,3.95,Beans
+482,2026-05-08,Rift Valley,2.77,Potatoes
+483,2026-06-09,Rift Valley,2.94,Beans
+484,2026-03-25,Rift Valley,2.81,Maize
+485,2026-06-01,Eastern,3.15,Beans
+486,2026-05-20,Central,0.63,Coffee
+487,2026-06-27,Rift Valley,2.28,Beans
+488,2026-06-12,Eastern,3.23,Coffee
+489,2026-05-04,Eastern,3.19,Potatoes
+490,2026-02-02,Rift Valley,4.07,Coffee
+491,2026-06-10,Central,3.45,Beans
+492,2026-06-28,Eastern,4.96,Maize
+493,2026-06-20,Rift Valley,1.78,Coffee
+494,2026-04-11,Central,2.12,Potatoes
+495,2026-01-12,Eastern,2.23,Coffee
+496,2026-03-08,Eastern,2.6,Coffee
+497,2026-03-06,Eastern,4.26,Coffee
+498,2026-06-10,Eastern,1.56,Potatoes
+499,2026-06-17,Central,3.99,Beans
+500,2026-03-15,Rift Valley,2.32,Coffee
